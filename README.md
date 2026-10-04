@@ -22,7 +22,7 @@ Sistem Evaluasi dan Analisis Koreksi Teknik Renang Gaya Bebas (Freestyle) Berbas
 
 ### b. Alamat GitHub / Kaggle
 * Dataset & Pre-trained Model: https://github.com/google/mediapipe (MediaPipe Pose Solutions)
-* Kaggle Dataset: https://www.kaggle.com/datasets (Kata kunci: swimming pose estimation / swimming video dataset)
+* Dataset: https://drive.google.com/drive/folders/1tTh05eal8v5CkxBG_yai5jKxq9-_FGoL?usp=sharing
 
 ### c. Referensi Jurnal
 1. Lugalia, R., et al. "Human Pose Estimation for Swimming Stroke Analysis Using Computer Vision." Journal of Sports Science and Technology.
